@@ -1,3 +1,6 @@
 # Networkwalks-B084-week1-cybersecurity-lab-setup
 CyberSecurity Lab setup
-Completed Cyber security lab setup and confugured NAT network
+Downloaded Virual box and kali linux setup files
+Added NAT networks 
+Import kalilinux in virtual box
+Configured IP settings in kali linux
